@@ -8,6 +8,7 @@ from PIL import Image
 st.set_option('deprecation.showfileUploaderEncoding', False)
 
 
+# image upload button
 uploaded_file = st.file_uploader('Choose a image file')
 
 if uploaded_file is not None:
