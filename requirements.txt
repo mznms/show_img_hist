@@ -3,3 +3,4 @@ streamlit
 numpy
 scikit_image
 typing_extensions
+Pillow
